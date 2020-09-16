@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/295945576.svg)](https://zenodo.org/badge/latestdoi/295945576)
+
 # Wiggly-NET
 CNN-LSTM based network to predict the oscillatory motion of silicon jet impinging sharp density interface
 Part of the WINTER/SPRING 2020 undergraduate research program (URP) @ KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY (KAIST)
